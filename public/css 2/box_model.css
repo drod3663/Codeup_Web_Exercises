@@ -1,0 +1,52 @@
+h1 {padding-bottom: 50px;}		 
+
+
+.codeup{position: relative;
+	    top: -105px;
+	    right:-50px;
+	}
+
+
+div {
+	width: 50px;
+	height: 50px;
+	border: 1px solid black;
+	padding-top: 0px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	color: white;
+	margin-bottom: 10px;
+}
+
+div#red { 
+	background-color: red;
+
+}
+
+div#orange { 
+	background-color: orange;
+
+}
+
+div#yellow { 
+		background-color: yellow;
+
+}
+
+
+div#green { 
+	background-color: green;
+	float: left;}
+	{clear:left;
+	
+}
+
+div#blue { 
+		background-color: blue;
+}
+
+div#pink { 
+	background-color: purple;
+}
+

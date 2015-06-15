@@ -1,0 +1,47 @@
+/* make headers blue and underlined */
+h1, h2 {
+	color: green;
+	text-decoration: underline
+}
+
+/*make background yellow*/
+body { background-color: yellow}
+
+/*add background image*/
+body { 
+	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/6c/ab/87/6cab87558709899220e717782cd425c2.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+
+}
+
+	
+/* make list style squares*/
+ol { list-style: upper-alpha;}
+ul { list-style: square;}
+
+a:visited {
+	color: black;
+}
+a:link {
+	color: red;
+}
+
+body { font-style: italic;}
+
+tbody { font-style: sans-serif}
+
+td {
+	padding: 20px;
+}
+
+th {
+	background-color: blue;
+	color: white;
+}
+
+table {
+	table-layout: fixed;
+}
+
+
